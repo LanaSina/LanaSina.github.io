@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am a founding member of Sony Computer Science Lab's new [Kyoto lab](https://www.sonycsl.co.jp/kyoto/). Read more about my motivation for starting the lab at that link. I research learning and predictive systems, and I am interested in sanitizing science practices.
+I am a founding member of Sony Computer Science Labs' new [Kyoto lab](https://www.sonycsl.co.jp/kyoto/). Read more about my motivation for starting the lab at that link. I research learning and predictive systems, and I am interested in sanitizing science practices.
 You can read about my career path on my [CV](lana_cv.pdf).
 
 ## Follow me
