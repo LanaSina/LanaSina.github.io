@@ -1,4 +1,4 @@
-# What am I thinking about?
+# About
 
 ## Who am I?
 
