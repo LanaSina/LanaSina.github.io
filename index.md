@@ -21,8 +21,15 @@ Most of my papers are listed in my Google Scholar [profile](https://scholar.goog
 
 ## What am I working on?
 
-Currently I am researching [visual illusions in neural networks](https://github.com/LanaSina/evolutionary_illusion_generator), biological and artificial, on the principle that systems that "fail" as the brain does teach us more than systems that superficially succeed as humans do. I am not so much interested in perfect artificial vision as I am interested in charmingly and accurately faulty artficial perception.
+I am interested in systems that learn in unconventional ways, as well as unconventional systems that learn in mainstream ways. Currently I work a lot on predictive coding. Some of my projects:
+
+I research [visual illusions in neural networks](https://github.com/LanaSina/evolutionary_illusion_generator), biological and artificial, on the principle that systems that "fail" as the brain does teach us more than systems that superficially succeed as humans do. I am not so much interested in perfect artificial vision as I am interested in charmingly and accurately faulty artficial perception.
 
 I also work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://agu.confex.com/agu/abscicon19/prelim.cgi/Paper/480711)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
 
 Other projects of mine include putting predictive networks in mobile phones, building platforms for collaborative open science, and recording weird behavior in plants.
+
+[gallery/EIGEN.png]
+
+An motion illusion produced by my evolutionary generator.
+
