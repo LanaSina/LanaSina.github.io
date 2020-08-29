@@ -29,7 +29,7 @@ I also work on measures of complexity and measures of "life". How could you dete
 
 Other projects of mine include putting predictive networks in mobile phones, building platforms for collaborative open science, and recording weird behavior in plants.
 
-[EIGEN.png]
+![bicolor](EIGEN.png)
 
 An motion illusion produced by my evolutionary generator.
 
