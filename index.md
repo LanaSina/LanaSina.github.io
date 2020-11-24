@@ -36,5 +36,5 @@ Other projects of mine include putting predictive networks in mobile phones, bui
 ![c_1](color_big.png)
 ![c_2](color_small_1.png)
 
-An motion illusion produced by my evolutionary generator.
+Motion illusions produced by my evolutionary generator.
 
