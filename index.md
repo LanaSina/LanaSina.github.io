@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am a founding member of Sony Computer Science Labs' new Kyoto Lab. Read more about my motivations for starting the lab by clicking on my picture [here](https://www.sonycsl.co.jp/kyoto/) (English and Japanese). I am also the Research Chair on the [International Society for ALife's](http://www.alife.org/about-isal) board of directors. I research learning and predictive systems, and I am interested in sanitizing science practices.
+I am an associate researcher (and founding member) of Sony Computer Science Labs' new Kyoto Lab. Read more about my motivations for starting the lab by clicking on my picture [here](https://www.sonycsl.co.jp/kyoto/) (English and Japanese). I am also the Research Chair on the [International Society for ALife's](http://www.alife.org/about-isal) board of directors. I research learning and predictive systems, and I am interested in sanitizing science practices.
 You can read about my career path on my [CV](lana_cv.pdf) (tl;dr: I went to Engineering School in France then moved to Japan where I got my Master's and PhD. I used to speak ~9 languages and can do just about anything that involves programming. Sometimes I get awards for scientific work or non scientific work. My favorite scientist is [Frans De Waal](https://en.wikipedia.org/wiki/Frans_de_Waal). I like food.)
 
 ## Follow me
@@ -27,7 +27,9 @@ I research [visual illusions in neural networks](https://github.com/LanaSina/evo
 
 I also work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://agu.confex.com/agu/abscicon19/prelim.cgi/Paper/480711)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
 
-Other projects of mine include putting predictive networks in mobile phones, building platforms for collaborative open science, and recording weird behavior in plants.
+I am building a platform for [better science](https://docs.google.com/presentation/d/1V_K8hghgnvGfEtW7TdwtowTveZyy4Qs8rMemNyHx_Dg/edit?usp=sharing).
+
+Other projects of mine include putting predictive networks in mobile phones and recording weird behavior in plants.
 
 ![bw_1](big_bw.png)
 ![bw_2](small_bw_1.png)
