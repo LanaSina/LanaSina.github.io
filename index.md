@@ -11,6 +11,8 @@ Message me on Twitter [@sina_lana](https://twitter.com/sina_lana)
 
 ## Read me 
 
+I wrote about changing science publushing through the collaborative open science platform I am developing: https://openmimosablog.wordpress.com/
+
 Learn about Artificial Life in my [Introduction to Artificial Life for People who Like AI](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/) on The Gradient.
 
 I write about my ideas and curate exciting science on [Medium](https://medium.com/@sina_lana)
@@ -27,7 +29,7 @@ I research [visual illusions in neural networks](https://github.com/LanaSina/evo
 
 I also work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://agu.confex.com/agu/abscicon19/prelim.cgi/Paper/480711)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
 
-I am building a platform for [better science](https://docs.google.com/presentation/d/1V_K8hghgnvGfEtW7TdwtowTveZyy4Qs8rMemNyHx_Dg/edit?usp=sharing).
+I am building a platform for [better science](https://openmimosablog.wordpress.com/).
 
 Other projects of mine include putting predictive networks in mobile phones and recording weird behavior in plants.
 
