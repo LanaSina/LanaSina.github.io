@@ -1,5 +1,7 @@
 # About
 
+Artficial Life - Open Science - Artificial Intelligence
+
 ## Who am I?
 
 I am an associate researcher (and founding member) of Sony Computer Science Labs' new Kyoto Lab. Read more about my motivations for starting the lab by clicking on my picture [here](https://www.sonycsl.co.jp/kyoto/) (English and Japanese). I am also the Research Chair on the [International Society for ALife's](http://www.alife.org/about-isal) board of directors. I research learning and predictive systems, and I am interested in sanitizing science practices.
@@ -11,7 +13,7 @@ Message me on Twitter [@sina_lana](https://twitter.com/sina_lana)
 
 ## Read me 
 
-I wrote about changing science publushing through the collaborative open science platform I am developing: https://openmimosablog.wordpress.com/
+I wrote about changing science publishing through the collaborative open science platform I am developing: https://openmimosablog.wordpress.com/
 
 Learn about Artificial Life in my [Introduction to Artificial Life for People who Like AI](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/) on The Gradient.
 
