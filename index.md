@@ -4,7 +4,8 @@ Artficial Life - Open Science - Artificial Intelligence
 
 ## Who am I?
 
-I am an associate researcher (and founding member) of Sony Computer Science Labs' new Kyoto Lab. Read more about my motivations for starting the lab by clicking on my picture [here](https://www.sonycsl.co.jp/kyoto/) (English and Japanese). I am also the Research Chair on the [International Society for ALife's](http://www.alife.org/about-isal) board of directors. I research learning and predictive systems, and I am interested in sanitizing science practices.
+I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home) and I am interested in sanitizing science practices (read about Mimosa Open Collaboration [here](https://openmimosablog.wordpress.com/)!).
+I am an associate researcher (and founding member) of Sony Computer Science Labs' new [Kyoto Lab](https://www.sonycsl.co.jp/kyoto/). I am also the Research Chair of the [International Society for ALife's](http://www.alife.org/about-isal) board of directors, a member of ISAL's DEI committee, an associate editor of the Journal of Artificial Life, and a member of eLife (not related to ALife!) [Early Career Advisory Group](https://elifesciences.org/inside-elife/be26bd40/early-career-advisory-group-election-results-2021).
 You can read about my career path on my [CV](lana_cv.pdf) (tl;dr: I went to Engineering School in France then moved to Japan where I got my Master's and PhD. I used to speak ~9 languages and can do just about anything that involves programming. Sometimes I get awards for scientific work or non scientific work. My favorite scientist is [Frans De Waal](https://en.wikipedia.org/wiki/Frans_de_Waal). I like food.)
 
 ## Follow me
