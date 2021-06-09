@@ -36,12 +36,19 @@ I am building a platform for [better science](https://openmimosablog.wordpress.c
 
 Other projects of mine include putting predictive networks in mobile phones and recording weird behavior in plants.
 
-![bw_1](big_bw.png)
-![bw_2](small_bw_1.png)
-![bw_3](small_bw_3.png)
+Mimosa Open Collaboration Platform:
 
-![c_1](color_big.png)
-![c_2](color_small_1.png)
+<img src="homepage.png" width="400">
 
-Motion illusions produced by my evolutionary generator.
+
+Motion illusions produced by my evolutionary generator:
+
+<img src="small_bw_1.png" width="400"> <img src="color_big.png" width="400">
+
+Epsilon Network:
+
+<img src="ui.jpg" width="400">
+
+
+
 
