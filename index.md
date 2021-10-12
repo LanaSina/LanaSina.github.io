@@ -4,8 +4,12 @@ Artficial Life - Open Science - Artificial Intelligence
 
 ## Who am I?
 
-I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home) and I am interested in changing science culture and sanitizing science practices (read about Mimosa Open Collaboration [here](https://openmimosablog.wordpress.com/), and contact me to access the beta). Find my Artificial Life talks [here](https://youtube.com/playlist?list=PLYuu1RcSnrYRS5HJNivMQDvaQQq0E7J5G), for general audiences or more specific communities.
+I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home). 
+
+I am interested in changing science culture and sanitizing science practices (read about Mimosa Open Collaboration [here](https://openmimosablog.wordpress.com/), and contact me to access the beta). Find my Artificial Life talks [here](https://youtube.com/playlist?list=PLYuu1RcSnrYRS5HJNivMQDvaQQq0E7J5G), for general audiences or more specific communities.
+
 I am an associate researcher (and founding member) of Sony Computer Science Labs' new [Kyoto Lab](https://www.sonycsl.co.jp/kyoto/). I am also the Research Chair of the [International Society for ALife's](http://www.alife.org/about-isal) board of directors, a member of ISAL's DEI committee, an associate editor of the Journal of Artificial Life, and a member of eLife (not related to ALife!) [Early Career Advisory Group](https://elifesciences.org/inside-elife/be26bd40/early-career-advisory-group-election-results-2021).
+
 You can read about my career path on my [CV](lana_cv.pdf) (tl;dr: I went to Engineering School in France then moved to Japan where I got my Master's and PhD. I used to speak ~9 languages and can do just about anything that involves programming. Sometimes I get awards for scientific work or non scientific work. My favorite scientist is [Frans De Waal](https://en.wikipedia.org/wiki/Frans_de_Waal). I like food.)
 
 ## Follow me
