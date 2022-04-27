@@ -37,7 +37,7 @@ I like food science and am working on a Cuisine Cultures simulator; I also wrote
 
 ## Who am I?
 
-I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home). 
+I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home). I give talks on Artificial Life, Open Ended Evolution, Purposeful Failure, and Predictive Coding.
 
 I am interested in changing science culture and sanitizing science practices (read about Mimosa Open Collaboration [here](https://openmimosablog.wordpress.com/), and contact me to access the beta). Find my Artificial Life talks [here](https://youtube.com/playlist?list=PLYuu1RcSnrYRS5HJNivMQDvaQQq0E7J5G), for general audiences or more specific communities.
 
