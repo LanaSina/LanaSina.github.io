@@ -2,6 +2,39 @@
 
 Artficial Life - Open Science - Artificial Intelligence
 
+## What am I working on?
+
+I am like systems that learn in unconventional ways, and unconventional systems that learn in mainstream ways.
+Some of my projects:
+
+### Artificial Perception
+I research [visual illusions in neural networks](https://github.com/LanaSina/evolutionary_illusion_generator), biological and artificial, on the principle that systems that "fail" as the brain does teach us more than systems that superficially succeed as humans do. I am not so much interested in perfect artificial vision as I am interested in charmingly and accurately faulty artficial perception.
+
+Motion illusions produced by my evolutionary generator:
+
+<img src="small_bw_1.png" width="400"> <img src="color_big.png" width="400">
+
+### Astrobiology: looking for life in the universe
+
+I work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://www.nature.com/articles/s41550-021-01559-x) (arxiv: https://arxiv.org/abs/2202.03699)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
+
+### Innovative Science Publishing
+
+I am building a platform for [better science](https://openmimosablog.wordpress.com/).
+
+<img src="homepage.png" width="400">
+
+I am also trying to federate scientists around new lab management practices: https://innovationsciorgs.com/
+
+### Weird plants
+
+I like recording weird behavior in plants.
+
+### Cooking 
+
+I like food science and am working on a Cuisine Cultures simulator; I also wrote a measureless bread recipe that took me 6 months to perfect: https://github.com/LanaSina/feeling_bread
+
+
 ## Who am I?
 
 I research learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home). 
@@ -29,30 +62,6 @@ This [very old blog](https://itakoyak.wordpress.com/) has scientific ideas as we
 
 Most of my papers are listed in my Google Scholar [profile](https://scholar.google.co.jp/citations?hl=en&pli=1&user=UVvjeaoAAAAJ)
 
-## What am I working on?
-
-I am interested in systems that learn in unconventional ways, as well as unconventional systems that learn in mainstream ways. Currently I work a lot on predictive coding. Some of my projects:
-
-I research [visual illusions in neural networks](https://github.com/LanaSina/evolutionary_illusion_generator), biological and artificial, on the principle that systems that "fail" as the brain does teach us more than systems that superficially succeed as humans do. I am not so much interested in perfect artificial vision as I am interested in charmingly and accurately faulty artficial perception.
-
-I also work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://agu.confex.com/agu/abscicon19/prelim.cgi/Paper/480711)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
-
-I am building a platform for [better science](https://openmimosablog.wordpress.com/).
-
-Other projects of mine include putting predictive networks in mobile phones and recording weird behavior in plants.
-
-Mimosa Open Collaboration Platform:
-
-<img src="homepage.png" width="400">
-
-
-Motion illusions produced by my evolutionary generator:
-
-<img src="small_bw_1.png" width="400"> <img src="color_big.png" width="400">
-
-Epsilon Network:
-
-<img src="ui.jpg" width="400">
 
 
 
