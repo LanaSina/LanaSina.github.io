@@ -33,7 +33,10 @@ I am building a platform for [better science](https://openmimosablog.wordpress.c
 
 <img src="homepage.png" width="400">
 
-Lately I have been thinking of pivoting to content augmentation based on fediverse posts (https://lanasina.github.io/FederatedMimosa/) and playing with Myst formatting (https://lanasina.github.io/mystmosa/paper).
+Lately I have been thinking of pivoting to content augmentation based on fediverse posts (https://lanasina.github.io/FederatedMimosa/) and playing with Myst formatting ([demo below](https://lanasina.github.io/mystmosa/paper)).
+
+<img src="mystmosa_vid02.gif" width="500">
+
 
 ## Who am I?
 
