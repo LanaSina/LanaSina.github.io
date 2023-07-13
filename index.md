@@ -1,4 +1,8 @@
-# About
+# Lana Sinapayen
+
+[Mastodon](https://elk.zone/mstdn.science/@lana) [BlueSky](https://bsky.app/profile/sinalana.bsky.social) [Twitter](https://twitter.com/sina_lana)
+
+## About
 
 Artficial Life - Artificial Intelligence - Open Science
 
