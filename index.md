@@ -58,7 +58,7 @@ You can read about my career path on my [CV (2023)](lana_cv.pdf) (tl;dr: I went 
 ## Follow me
 
 Message me on Twitter [@sina_lana](https://twitter.com/sina_lana) if it hasn't collapsed; otherwise find me on [Bluesky](https://bsky.app/profile/sinalana.bsky.social) or [Mastodon](https://mstdn.science/@lana).
-Keep up with the ALife community through the [newsletter]([https://alife.org/newsletter-october-2021/](https://alife-newsletter.github.io/Newsletter/)) (every 2 months) or the [ALife Papers](https://twitter.com/AlifePapers) twitter account.
+Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/) (every 2 months) or the [ALife Papers](https://twitter.com/AlifePapers) twitter account.
 
 ## Read me 
 
