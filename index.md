@@ -1,6 +1,8 @@
 # Lana Sinapayen
 
-[Mastodon](https://elk.zone/mstdn.science/@lana) [BlueSky](https://bsky.app/profile/sinalana.bsky.social) [Twitter](https://twitter.com/sina_lana)
+[Publications](https://scholar.google.com/citations?user=UVvjeaoAAAAJ&hl=fr)
+
+[Mastodon](https://elk.zone/mstdn.science/@lana)
 
 ## About
 
@@ -11,6 +13,16 @@ These days I am especially interested in replicating evolution (of biological or
 #Astrobiology #OpenEndedEvolution #CellularAutomata #OpenCollaboration
 
 ## What am I working on?
+
+### Agnostic biosignatures
+How do we look for life in the universe when we don't know what that life will look like? One approach is to focus on what life does rather than what it is made of.
+
+Life makes planetary surfaces more complex: https://arxiv.org/abs/2202.03699  
+<img src="lana-stuart.png" width="500">  
+
+Life replicates, mutates, and leaves unique correlations behind: https://arxiv.org/abs/2403.14195  
+<img src="lana-harrison.png" width="500">
+
 
 ### Self-replication and Exponential Mutation in Neural Cellular Automata
 
@@ -57,8 +69,8 @@ You can read about my career path on my [CV (2023)](lana_cv.pdf) (tl;dr: I went 
 
 ## Follow me
 
-Message me on Twitter [@sina_lana](https://twitter.com/sina_lana) if it hasn't collapsed; otherwise find me on [Bluesky](https://bsky.app/profile/sinalana.bsky.social) or [Mastodon](https://mstdn.science/@lana).
-Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/) (every 2 months) or the [ALife Papers](https://twitter.com/AlifePapers) twitter account.
+Fnd me on [Mastodon](https://mstdn.science/@lana).
+Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/) (every 2 months).
 
 ## Read me 
 
