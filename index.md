@@ -1,12 +1,14 @@
 # Lana Sinapayen
 
-[Publications](https://scholar.google.com/citations?user=UVvjeaoAAAAJ&hl=fr)
+[Publications](https://scholar.google.com/citations?hl=fr&user=UVvjeaoAAAAJ&view_op=list_works&sortby=pubdate)
 
-[Mastodon](https://elk.zone/mstdn.science/@lana)
+[Bluesky](https://bsky.app/)
+
+[Mastodon](https://elk.zone/mastodon.social/@lana_sina)
 
 ## About
 
-Artficial Life - Artificial Intelligence - Open Science
+Artficial Life - Artificial Intelligence
 
 These days I am especially interested in replicating evolution (of biological or cultural systems), looking for life in the universe, and supporting local traditions using tech. I am still working on ways to improve open science sharing/publishing/open collaboration. [My dog talks](https://www.instagram.com/iikocookie/).
 
@@ -14,14 +16,17 @@ These days I am especially interested in replicating evolution (of biological or
 
 ## What am I working on?
 
-### Agnostic biosignatures
-How do we look for life in the universe when we don't know what that life will look like? One approach is to focus on what life does rather than what it is made of.
+### Agnostic biosignatures: looking for life in the universe
 
-Life makes planetary surfaces more complex: https://arxiv.org/abs/2202.03699  
-<img src="lana-stuart.png" width="500">  
+How do we look for life in the universe when we don't know what that life will look like? One approach is to focus on what life does rather than what it is made of. I work on measures of complexity and measures of "life". 
 
-Life replicates, mutates, and leaves unique correlations behind: https://arxiv.org/abs/2403.14195  
+- How could you detect life on faraway planets? [Assessing planetary complexity and potential agnostic biosignatures using epsilon machines](https://www.nature.com/articles/s41550-021-01559-x) (arxiv: https://arxiv.org/abs/2202.03699)? 
+- Life replicates, mutates, and leaves unique correlations behind. We propose a way to detect those at the galactic level: [An Agnostic Biosignature Based on Modeling Panspermia and Terraformation](https://arxiv.org/abs/2403.14195)  
+- What kind of data and how much of it do you need to make a reasonable assumption about whether a system is alive or not? [Fake Life Recognition Contest](https://github.com/LanaSina/FLR_contest)
+
 <img src="lana-harrison.png" width="500">
+
+<img src="lana-stuart.png" width="500">  
 
 
 ### Self-replication and Exponential Mutation in Neural Cellular Automata
@@ -31,6 +36,14 @@ I [wrote](https://www.qeios.com/read/JPUWVB) about making the patterns self-repl
 
 <img src="fish.gif" width="200">
 
+### Open Ended Speciation (unpublished)
+
+What are the conditions for one species to branch into 2, 5, 10 descending species? I research the parameters leading to speciation in simulated worlds.
+
+<img src="2024-11-05_20_37-tree.png" width="400">
+
+[Videos](https://www.youtube.com/watch?v=ayot-ddhrmk&list=PLYuu1RcSnrYTBTx-F3edZLo45vnBVyIFR)
+
 
 ### Artificial Perception
 I research [visual illusions in neural networks](https://github.com/LanaSina/evolutionary_illusion_generator), biological and artificial, on the principle that systems that "fail" as the brain does teach us more than systems that superficially succeed as humans do. I am not so much interested in perfect artificial vision as I am interested in charmingly and accurately faulty artficial perception.
@@ -39,42 +52,25 @@ Motion illusions produced by my evolutionary generator:
 
 <img src="small_bw_1.png" width="400"> <img src="color_big.png" width="400">
 
-### Astrobiology: looking for life in the universe
-
-I work on measures of complexity and measures of "life". How could you detect life on [faraway planets](https://www.nature.com/articles/s41550-021-01559-x) (arxiv: https://arxiv.org/abs/2202.03699)? What kind of data and how much of it do you need to make a reasonable assumption about [whether a system is alive or not](https://github.com/LanaSina/FLR_contest)?
-
-### Innovative Science Publishing
-
-I am building a platform for [better science](https://openmimosablog.wordpress.com/).
-
-<img src="homepage.png" width="400">
-
-Lately I have been thinking of pivoting to content augmentation based on fediverse posts (https://lanasina.github.io/FederatedMimosa/) and playing with Myst formatting ([demo below](https://lanasina.github.io/mystmosa/paper)).
-
-<img src="mystmosa_vid02.gif" width="500">
-
 
 ## Who am I?
 
-I am a French researcher living in Kyoto with my dog.
-I research the principles of the evoluton of life, learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home). I give talks on Artificial Life, Open Ended Evolution, Purposeful Failure, and Predictive Coding.
+I am a French researcher living in Kyoto with [my dog](https://www.instagram.com/iikocookie/).
+I research the principles of the evoluton of life, learning, predictive systems, and [Artificial Perception](https://sites.google.com/view/artificialperception/home).
 
-I am interested in changing science culture and sanitizing science practices (read about Mimosa Open Collaboration [here](https://openmimosablog.wordpress.com/), and contact me to access the beta). Find my Artificial Life talks [here](https://youtube.com/playlist?list=PLYuu1RcSnrYRS5HJNivMQDvaQQq0E7J5G), for general audiences or more specific communities.
-
-I am an associate researcher (and founding member) of Sony Computer Science Labs' new [Kyoto Lab](https://www.sonycsl.co.jp/kyoto/) and an associate professor at the [National Institute for Basic Biology](http://www.nibb.ac.jp/en/) in Japan.
-I am also the Research Chair of the [International Society for ALife's](http://www.alife.org/about-isal) board of directors, a member of ISAL's DEI committee, and a member of eLife (not related to ALife!) [Early Career Advisory Group](https://elifesciences.org/inside-elife/be26bd40/early-career-advisory-group-election-results-2021).
+I am an associate researcher (and founding member) of Sony Computer Science Labs' [Kyoto Lab](https://www.sonycsl.co.jp/kyoto/) and an associate professor at the [National Institute for Basic Biology](http://www.nibb.ac.jp/en/) in Japan.
+I am also the Research Chair of the [International Society for ALife's](http://www.alife.org/about-isal) board of directors, a member of ISAL's DEI committee.
 
 You can read about my career path on my [CV (2023)](lana_cv.pdf) (tl;dr: I went to Engineering School in France then moved to Japan where I got my Master's and PhD. I used to speak ~9 languages and can do just about anything that involves programming. Sometimes I get awards for scientific work or non scientific work. My favorite scientist is [Frans De Waal](https://en.wikipedia.org/wiki/Frans_de_Waal). I like food.)
 
 
 ## Follow me
 
-Fnd me on [Mastodon](https://mstdn.science/@lana).
-Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/) (every 2 months).
+Fnd me on [Bluesky](https://bsky.app/) or [Mastodon](https://elk.zone/mastodon.social/@lana_sina).
+Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/).
+
 
 ## Read me 
-
-I wrote about changing science publishing through the collaborative open science platform I am developing: https://openmimosablog.wordpress.com/
 
 Learn about Artificial Life in my [Introduction to Artificial Life for People who Like AI](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/) on The Gradient.
 
