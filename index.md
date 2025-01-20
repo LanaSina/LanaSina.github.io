@@ -8,9 +8,9 @@
 
 ## About
 
-Artficial Life - Artificial Intelligence
+Artficial Life - Astrobiology
 
-These days I am especially interested in replicating evolution (of biological or cultural systems), looking for life in the universe, and supporting local traditions using tech. I am still working on ways to improve open science sharing/publishing/open collaboration. [My dog talks](https://www.instagram.com/iikocookie/).
+These days I am especially interested in replicating evolution (of biological or cultural systems) and looking for life in the universe. I am on the Executive board of [Kyoto International School](https://www.kis.ac.jp/). [My dog talks](https://www.instagram.com/iikocookie/).
 
 #Astrobiology #OpenEndedEvolution #CellularAutomata #OpenCollaboration
 
