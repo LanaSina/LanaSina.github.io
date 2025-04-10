@@ -40,7 +40,9 @@ I [wrote](https://www.qeios.com/read/JPUWVB) about making the patterns self-repl
 
 What are the conditions for one species to branch into 2, 5, 10 descending species? I research the parameters leading to speciation in simulated worlds.
 
-<img src="2024-11-05_20_37-tree.png" width="400">
+<img src="modified.png" width="400">
+<img src="connected_scatter_x=maxEnergy_y=nkids_size=created_dark.png" width="400">
+
 
 [Videos](https://www.youtube.com/watch?v=ayot-ddhrmk&list=PLYuu1RcSnrYTBTx-F3edZLo45vnBVyIFR)
 
