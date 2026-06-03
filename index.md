@@ -2,7 +2,7 @@
 
 [Publications](https://scholar.google.com/citations?hl=fr&user=UVvjeaoAAAAJ&view_op=list_works&sortby=pubdate)
 
-[Bluesky](https://bsky.app/)
+[Bluesky]([https://bsky.app/](https://bsky.app/profile/sinalana.eurosky.social))
 
 [Mastodon](https://elk.zone/mastodon.social/@lana_sina)
 
@@ -10,7 +10,7 @@
 
 Artficial Life - Astrobiology
 
-These days I am especially interested in replicating evolution (of biological or cultural systems) and looking for life in the universe. I am on the Executive board of [Kyoto International School](https://www.kis.ac.jp/). [My dog talks](https://www.instagram.com/iikocookie/).
+These days I am especially interested in replicating evolution (of biological or cultural systems) and looking for life in the universe. [My dog talks](https://www.instagram.com/iikocookie/). Here is [my list of open questions](https://lanasina.github.io/open_questions/) for Artificial Life from a complex systems point of view.
 
 #Astrobiology #OpenEndedEvolution #CellularAutomata #OpenCollaboration
 
@@ -36,13 +36,14 @@ I [wrote](https://www.qeios.com/read/JPUWVB) about making the patterns self-repl
 
 <img src="fish.gif" width="200">
 
-### Open Ended Speciation (unpublished)
+### Open Ended Speciation
 
 What are the conditions for one species to branch into 2, 5, 10 descending species? I research the parameters leading to speciation in simulated worlds.
 
+Preprint: [A speciation simulation that partly passes open-endedness tests](https://arxiv.org/abs/2603.01701) Théo de Pinho, Lana Sinapayen 
+
 <img src="modified.png" width="400">
 <img src="connected_scatter_x=maxEnergy_y=nkids_size=created_dark.png" width="400">
-
 
 [Videos](https://www.youtube.com/watch?v=ayot-ddhrmk&list=PLYuu1RcSnrYTBTx-F3edZLo45vnBVyIFR)
 
@@ -68,7 +69,7 @@ You can read about my career path on my [CV (2023)](lana_cv.pdf) (tl;dr: I went 
 
 ## Follow me
 
-Fnd me on [Bluesky](https://bsky.app/) or [Mastodon](https://elk.zone/mastodon.social/@lana_sina).
+Fnd me on [Bluesky](https://bsky.app/profile/sinalana.eurosky.social) or [Mastodon](https://elk.zone/mastodon.social/@lana_sina).
 Keep up with the ALife community through the [newsletter](https://alife-newsletter.github.io/Newsletter/).
 
 
